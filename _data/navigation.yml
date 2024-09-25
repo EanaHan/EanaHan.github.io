@@ -18,7 +18,7 @@ main:
     url: /cv/
   
     - title: "Portfolio"
-    url: <li><a href="#portfolio">Portfolio</a></li>
+    URL: "#portfolio"
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
