@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Eana Han"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "BASc in Mechatronics Engineering with Computing Option"
   location         : "Toronto, Canada"
   employer         : "University of Waterloo"
