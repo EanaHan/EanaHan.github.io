@@ -9,7 +9,7 @@ redirect_from:
 
 I've recently graduated from the University of Waterloo with a BASc in Mechatronics Engineering with Computing Option.
 
-id="portfolio">Portfolio
+## <a id="portfolio"></a>Portfolio
 =
 Portfolio
 =
