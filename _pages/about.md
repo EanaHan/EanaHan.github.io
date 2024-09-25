@@ -17,9 +17,8 @@ Some information about you...
 
 ## PDF Preview
 
-## <a href="files/Eana_Portfolio.pdf" target="_blank">Portfolio
-    <img src="files/resize.png" alt="Open in new tab" style="width:16px; height:16px; margin-left: 5px;" />
-</a>
+## Portfolio <a href="files/Eana_Portfolio.pdf" target="_blank"><img src="/path-to-your-icon.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; vertical-align: middle;" />
+
 
 <div class="pdf-container">
     <!-- Embed PDF with minimal border -->
