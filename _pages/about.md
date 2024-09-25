@@ -11,6 +11,62 @@ I've recently graduated from the University of Waterloo with a BASc in Mechatron
 
 A data-driven personal website
 ======
+# About Me
+
+Some information about you...
+
+## PDF Preview
+
+<!-- Inline CSS styles -->
+<style>
+.pdf-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px; /* Adjust this to fit your layout */
+    margin: 0 auto;
+    border: none;
+}
+
+.pdf-viewer {
+    width: 100%;
+    height: 600px;  /* Adjust height as needed */
+    border: none;  /* Remove iframe border */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);  /* Optional: Subtle shadow for aesthetics */
+}
+
+.open-in-new-tab {
+    position: absolute;
+    top: 10px;  /* Adjust position inside the container */
+    right: 10px;
+}
+
+.open-in-new-tab button {
+    padding: 8px 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px; /* Optional: Rounded corners */
+}
+
+.open-in-new-tab button:hover {
+    background-color: #555;
+}
+</style>
+
+<div class="pdf-container">
+    <!-- Embed PDF with minimal border -->
+    <iframe src="/path-to-your-pdf-file.pdf" class="pdf-viewer" title="PDF Preview"></iframe>
+
+    <!-- Button to open in new tab -->
+    <div class="open-in-new-tab">
+        <a href="/path-to-your-pdf-file.pdf" target="_blank">
+            <button>Open PDF in New Tab</button>
+        </a>
+    </div>
+</div>
+
+
 <!-- Open in new tab link -->
 <div style="text-align: center; margin-top: 10px;">
     <a href="/files/Eana_Portfolio.pdf" target="_blank">
