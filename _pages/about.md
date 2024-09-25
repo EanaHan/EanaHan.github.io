@@ -17,7 +17,7 @@ Some information about you...
 
 ## PDF Preview
 
-## Portfolio <a href="files/Eana_Portfolio.pdf" target="_blank"><img src="/path-to-your-icon.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; vertical-align: middle;" />
+## Portfolio <a href="files/Eana_Portfolio.pdf" target="_blank"><img src="files/resize.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; vertical-align: middle;" />
 
 
 <div class="pdf-container">
