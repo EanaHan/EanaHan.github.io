@@ -9,6 +9,8 @@ redirect_from:
 
 I've recently graduated from the University of Waterloo with a BASc in Mechatronics Engineering with Computing Option.
 
+id="portfolio">Portfolio
+=
 Portfolio
 =
 <hr style="width: 1000px; border: 0.5px solid #f2f3f3; margin: 20px auto;">
