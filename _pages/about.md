@@ -23,7 +23,7 @@ Some information about you...
 
 <div class="pdf-container">
     <!-- Embed PDF with minimal border -->
-    <iframe src="/path-to-your-pdf-file.pdf" class="pdf-viewer" title="PDF Preview"></iframe>
+    <iframe src="files/Eana_Portfolio.pdf" class="pdf-viewer" title="PDF Preview"></iframe>
 </div>
 
 <!-- Open in new tab link -->
