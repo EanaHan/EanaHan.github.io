@@ -56,11 +56,11 @@ Some information about you...
 
 <div class="pdf-container">
     <!-- Embed PDF with minimal border -->
-    <iframe src="/path-to-your-pdf-file.pdf" class="pdf-viewer" title="PDF Preview"></iframe>
+    <iframe src="files/Eana_Portfolio.pdf" class="pdf-viewer" title="PDF Preview"></iframe>
 
     <!-- Button to open in new tab -->
     <div class="open-in-new-tab">
-        <a href="/path-to-your-pdf-file.pdf" target="_blank">
+        <a href="files/Eana_Portfolio.pdf" target="_blank">
             <button>Open PDF in New Tab</button>
         </a>
     </div>
@@ -69,7 +69,7 @@ Some information about you...
 
 <!-- Open in new tab link -->
 <div style="text-align: center; margin-top: 10px;">
-    <a href="/files/Eana_Portfolio.pdf" target="_blank">
+    <a href="files/Eana_Portfolio.pdf" target="_blank">
         <button style="padding: 10px 20px; background-color: #333; color: #fff; border: none; cursor: pointer;">
             Open PDF in New Tab
         </button>
