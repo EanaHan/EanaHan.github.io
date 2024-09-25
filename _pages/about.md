@@ -9,20 +9,23 @@ redirect_from:
 
 I've recently graduated from the University of Waterloo with a BASc in Mechatronics Engineering with Computing Option.
 
-A data-driven personal website
+Portfolio
 ======
-# About Me
+<!-- Open in new tab link -->
+<div style="text-align: center; margin-top: 10px;">
+    <a href="files/Eana_Portfolio.pdf" target="_blank">
+        <button style="padding: 10px 20px; background-color: #fff; color: #333; border: none; cursor: pointer;">
+            Open PDF in New Tab <img src="files/resize.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; vertical-align: middle;" />
+        </button>
+    </a>
+</div>
 
-Some information about you...
 
-## PDF Preview
-
-## Portfolio <a href="files/Eana_Portfolio.pdf" target="_blank"><img src="files/resize.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; vertical-align: middle;" />
 
 
 <div class="pdf-container">
     <!-- Embed PDF with minimal border -->
-    <iframe src="files/Eana_Portfolio.pdf" class="pdf-viewer" title="PDF Preview"></iframe>
+    <iframe src="files/Eana_Portfolio.pdf"  width="100%" height="600px" title="PDF Preview"></iframe>
 </div>
 
 <!-- Open in new tab link -->
