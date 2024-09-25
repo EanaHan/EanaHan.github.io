@@ -11,20 +11,20 @@ I've recently graduated from the University of Waterloo with a BASc in Mechatron
 
 A data-driven personal website
 ======
-
-<iframe src="files/Eana_Portfolio.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="files/Eana_Portfolio.pdf">Download PDF</a>.
-</iframe>
-
 <!-- Open in new tab link -->
 <div style="text-align: center; margin-top: 10px;">
-    <a href="/path-to-your-pdf-file.pdf" target="_blank">
+    <a href="/files/Eana_Portfolio.pdf" target="_blank">
         <button style="padding: 10px 20px; background-color: #333; color: #fff; border: none; cursor: pointer;">
             Open PDF in New Tab
         </button>
     </a>
 </div>
+<iframe src="files/Eana_Portfolio.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="files/Eana_Portfolio.pdf">Download PDF</a>.
+</iframe>
+
+
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
