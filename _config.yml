@@ -21,7 +21,7 @@ repository               : "eanahan/eanahan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Eana Han"
   pronouns         : "she/her"  
   bio              : "BASc in Mechatronics Engineering with Computing Option"
