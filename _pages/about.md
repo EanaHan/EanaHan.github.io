@@ -15,7 +15,7 @@ Portfolio
 <div style="text-align: left; margin-top: 10px;">
     <a href="files/Eana_Portfolio.pdf" target="_blank">
         <button style="padding: 10px 1px; background-color: #fff; color: #333; border: none; cursor: pointer;">
-            Open PDF in New Tab <img src="files/resize.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; vertical-align: middle;" />
+            Open PDF in New Tab <img src="files/resize.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; margin-bottom: 2px;vertical-align: middle;" />
         </button>
     </a>
 </div>
@@ -25,7 +25,7 @@ Portfolio
 
 <div class="pdf-container">
     <!-- Embed PDF with minimal border -->
-    <iframe src="files/Eana_Portfolio.pdf"  width="1200px" height="600px" title="PDF Preview"></iframe>
+    <iframe src="files/Eana_Portfolio.pdf"  width="1000px" height="600px" title="PDF Preview"></iframe>
 </div>
 
 
