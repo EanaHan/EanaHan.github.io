@@ -15,7 +15,7 @@ Portfolio
 <div style="text-align: left; margin-top: 10px;">
     <a href="files/Eana_Portfolio.pdf" target="_blank">
         <button style="padding: 10px 1px; background-color: #fff; color: #333; border: none; cursor: pointer;">
-            Open PDF in New Tab <img src="files/resize.png" alt="icon" style="width:16px; height:16px; margin-left: 5px; margin-bottom: 10px;vertical-align: middle;" />
+            Open PDF in New Tab <img src="files/resize.png" alt="icon" style="width:16px; height:16px; margin-left: 1px; margin-bottom: 5px;vertical-align: middle;" />
         </button>
     </a>
 </div>
