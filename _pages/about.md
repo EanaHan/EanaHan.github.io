@@ -10,7 +10,7 @@ redirect_from:
 I've recently graduated from the University of Waterloo with a BASc in Mechatronics Engineering with Computing Option.
 
 Portfolio
-======
+------
 <!-- Open in new tab link -->
 <div style="text-align: center; margin-top: 10px;">
     <a href="files/Eana_Portfolio.pdf" target="_blank">
