@@ -11,7 +11,7 @@ I've recently graduated from the University of Waterloo with a BASc in Mechatron
 
 Portfolio
 -----------
-<hr style="width: 1000px; border: 0.1px solid #fafafa; margin: 20px auto;">
+<hr style="width: 1000px; border: 0.5px solid #fafafa; margin: 20px auto;">
 <!-- Open in new tab link -->
 <div style="text-align: left; margin-top: 10px;">
     <a href="files/Eana_Portfolio.pdf" target="_blank">
