@@ -24,7 +24,7 @@ I've recently graduated from the University of Waterloo with a BASc in Mechatron
     <!-- Embed PDF with minimal border -->
     <iframe src="files/Eana_Portfolio.pdf"  width="850px" height="600px" title="PDF Preview"></iframe>
 </div>
-<!-- Adding a blank line for extra space -->
+<br><br>
 
 <a id="cv"></a>CV
 ======
