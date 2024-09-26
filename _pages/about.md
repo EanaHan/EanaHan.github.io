@@ -11,7 +11,7 @@ I've recently graduated from the University of Waterloo with a BASc in Mechatron
 
 <a id="portfolio"></a>Portfolio
 ======
-<hr style="width: 850px; border: 0.5px solid #f2f3f3; margin: 20px auto;">
+<hr style="width: 1000px; border: 0.5px solid #f2f3f3; margin: 20px auto;">
 <!-- Open in new tab link -->
 <div style="text-align: left; margin-top: 10px;">
     <a href="files/Eana_Portfolio.pdf" target="_blank">
@@ -22,13 +22,13 @@ I've recently graduated from the University of Waterloo with a BASc in Mechatron
 </div>
 <div class="pdf-container">
     <!-- Embed PDF with minimal border -->
-    <iframe src="files/Eana_Portfolio.pdf"  width="850px" height="600px" title="PDF Preview"></iframe>
+    <iframe src="files/Eana_Portfolio.pdf"  width="1000px" height="600px" title="PDF Preview"></iframe>
 </div>
 <br>
 
 <a id="cv"></a>CV
 ======
-<hr style="width: 850px; border: 0.5px solid #f2f3f3; margin: 20px auto;">
+<hr style="width: 1000px; border: 0.5px solid #f2f3f3; margin: 20px auto;">
 <!-- Open in new tab link -->
 <div style="text-align: left; margin-top: 10px;">
     <a href="files/Eana_Resume.pdf" target="_blank">
@@ -39,5 +39,5 @@ I've recently graduated from the University of Waterloo with a BASc in Mechatron
 </div>
 <div class="pdf-container">
     <!-- Embed PDF with minimal border -->
-    <iframe src="files/Eana_Resume.pdf"  width="850px" height="1100px" title="PDF Preview"></iframe>
+    <iframe src="files/Eana_Resume.pdf"  width="1000px" height="1250px" title="PDF Preview"></iframe>
 </div>
