@@ -24,11 +24,11 @@ author:
   avatar           : "profile2.jpg"
   name             : "Eana Han"
   pronouns         : "she/her"  
-  bio              : "BASc in Mechatronics Engineering with Computing Option"
-  location         : "Toronto, Canada"
-  employer         : "University of Waterloo"
+  bio              : "MS Student in Medical Physics | BASc in Mechatronics Engineering"
+  location         : "Durham, North Carolina"
+  employer         : "Duke University"
   uri              : # URL
-  email            : "enhan@uwaterloo.ca" 
+  email            : "eana.han@duke.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
